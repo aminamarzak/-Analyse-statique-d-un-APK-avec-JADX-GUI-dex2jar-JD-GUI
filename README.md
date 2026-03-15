@@ -3,15 +3,6 @@
 Application : UnCrackable-Level1.apk
 Environnement : Mobexler OS (Linux)
 Objectif : Reverse Engineering et Extraction de secrets.
-Gemini a dit
-Hada rapport kamel m-naddem 3la hsab dakchi li talb l-prof, fih ga3 les Tasks men 1 tal 7. Ktebt lik f kolla blaca chmen Screenshot khassk t-hreg bed-debt b smiytha.
-
-Rapport de TP : Analyse Statique d'Application Android
-Application : UnCrackable-Level1.apk
-
-Environnement : Mobexler OS (Linux)
-
-Objectif : Reverse Engineering et Extraction de secrets.
 
 Task 1 — Vérification de l'intégrité
 L'analyse commence par le calcul de l'empreinte numérique du fichier APK pour garantir qu'il s'agit du bon binaire.
